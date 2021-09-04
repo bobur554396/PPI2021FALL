@@ -1,0 +1,41 @@
+Programming Principles I
+
+What is the programing?
+
+
+
+ 2 + 3 = 5
+
+1) input (first number, second number)
+2) result: sum = first number + second number
+Program — list of instructions.
+
+
+Digital device can not understand Humans language.
+
+
+Computer’s language (1 / 0):
+
+1) High level language:
+SQL, Python, Java, Ruby, …
+
+
+2) Middle level language:
+C, C++, Perl, …
+
+
+3) Low level language:
+Assemble
+
+
+How can we convert all the languages to machine code (binary code)?   Use some translator?:
+1) Compiler - will convert whole instructions at once.
+2) Interperter - will concert instructions one by one.
+
+
+
+Machine code (binary code): 1 / 0
+
+ASCII:
+
+A - 65 -> binary value
