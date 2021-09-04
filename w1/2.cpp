@@ -8,7 +8,7 @@ int main(){
   // int b = 5;
   
   int A, B;
-  int a = 16, b = 5;
+  int a = 13, b = 5;
 
   cout << "a + b = " << a + b << endl;
   cout << "a - b = " << a - b << endl;
