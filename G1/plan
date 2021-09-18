@@ -1,0 +1,41 @@
+Lecture 2
+
+- [ ] data type sizeof
+- [ ] (++, --, +=, -=, *=, /=, %= )
+- [ ] comparison operators (==, !=, >, <, >=, <=)
+- [ ] printf with floating numbers (M_PI)
+- [ ] math functions - pow, round, ceil, floor
+
+
+- [ ] bit manipulation, or, xor, and, >>, <<, |=, &=, ^=, ~
+- [ ] 2^n example 1 << n
+- [ ] set 1 for i-th bit of number: 
+- [ ] invert i-th bit of number: 
+- [ ] set 0 for i-th bit of number:
+- [ ] identify i-th bit of number: 
+
+
+- [ ] if else conditions. If —> return 0, gt, lt
+- [ ] even odd example
+- [ ] find grade from points example
+- [ ] max, min
+- [ ] can you draw triangle a, b, c
+- [ ] attendance checker for Fail (credits * 15 * 0.2)
+
+
+- [x] loop operators: for, while, do while
+- [x] even numbers / odd numbers till 100
+- [x] infinity loop
+- [x] all numbers which divisible by 3 in range (a, b)
+- [x] count number of dividers of N
+- [ ] prime number
+- [x] fibonacci sequence (0, 1, 1, 2, 3, 5, …)
+- [x] factorial
+- [x] sum of numbers (cin reads numbers in the loop)
+- [ ] string: number of words
+- [ ] Find the sum of digits of given number
+    - [ ] Sum of digits (for, while)
+    - [ ] list of all squares < N (while)
+    - [ ] do while & while
+    - [ ] factorial using — while
+    - [ ] sum all numbers util user enter 0 — do while
