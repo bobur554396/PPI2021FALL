@@ -1,0 +1,24 @@
+- [ ] What is an array?
+    - [ ] value, index, address 
+- [ ] Init samples
+    - [ ] Array declaration — int a[10]; bool b[10]; 
+    - [ ] Declaration and init — int a[5] = {1, 2, 3}; int a[] = {1, 2, 3};
+- [ ] Accessing the values of an array: a[0] = 3; 
+- [ ] Other operations with arrays: a[0] = b; c = a[n+2]; a[a[2]] = a[1] + 3;
+- [ ]  
+- [ ] 1D array samples
+    - [ ] Read N number and show them
+    - [ ] Sum of all elements int array
+    - [ ] Create array with size N — int a[N]; Read N elements
+    - [ ] Show even numbers from given array
+    - [ ] Show numbers in odd position from given array
+    - [ ] Count number of positive numbers in array
+    - [ ] Find Max/Min from given array
+    - [ ] Linear search of K from given array
+        - [ ] Simple version
+        - [ ] with bool
+    - [ ] Find number K and remove it, shift left all rest elements add 0 at the end
+- [ ] String samples
+    - [ ] s.size(); s.length()
+    - [ ] Show all digits from string
+    - [ ] convert all letter to UPPER
