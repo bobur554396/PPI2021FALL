@@ -16,10 +16,10 @@ int main(){
     }
   }
 
-  int maxi = a[0][0];
+  int maxi = a[0][0]; // 2
   for(int i = 0; i < n; i++){
     for(int j = 0; j < m; j++){
-      if(a[i][j] > maxi)
+      if(a[i][j] > maxi) // a[0][0] > maxi =>   2 > 2
         maxi = a[i][j];
     }
   }
