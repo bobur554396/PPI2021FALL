@@ -6,6 +6,7 @@ using namespace std;
 
 /*
   base = 2, exp = -3
+  2^3 = 2 * 2 * 2 = 8
   2^-3 = 1 / 2 * 2 * 2 = 1 / 8
 */
 

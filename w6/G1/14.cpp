@@ -10,7 +10,7 @@ char toUpper(char c){
 }
 
 char toUpper2(char c){
-  if(c >= '0' && c <= '9')
+  if(c >= 'a' && c <= 'z')
     c -= 32;
   return c;
 }
