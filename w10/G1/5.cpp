@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
   // STL - Standard Template Library
-  // Vector - dynamicly changable array
+  // Vector - dynamically changeable array
 
   vector<int> v;
   v.push_back(4);

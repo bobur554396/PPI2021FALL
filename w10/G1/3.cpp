@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
   // STL - Standard Template Library
-  // Vector - dynamicly changable array
+  // Vector - dynamically changeable array
   int a[] = {2, -1, 10};
 
   // cout << *(a + 0) << endl; // a[0]
