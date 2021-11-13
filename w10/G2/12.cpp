@@ -28,11 +28,11 @@ int main(){
   }
 
 
-  // set<int>::iterator it = s.end();
-  // int l = s.size();
-  // while(it != s.begin()){
+  // Printing reversed values
+  // set<int>::reverse_iterator it = s.rbegin();
+  // while(it != s.rend()){
   //   cout << *it << " ";
-  //   it--;
+  //   it++;
   // }
 
 
